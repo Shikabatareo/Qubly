@@ -1,0 +1,8 @@
+{
+	"html-css-class-completion.enableEmmetSupport": true,
+	"tailwindCSS.emmetCompletions": true,
+	"emmet.showSuggestionsAsSnippets": true,
+	"html.format.contentUnformatted": "",
+	"emmet.triggerExpansionOnTab": true,
+	"emmet.useInlineCompletions": true
+}
